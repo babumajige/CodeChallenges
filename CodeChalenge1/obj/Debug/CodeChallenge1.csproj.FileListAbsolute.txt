@@ -1,0 +1,6 @@
+D:\GitHub\CodeChallenge1\CodeChalenge1\bin\Debug\CodeChalenge1.exe.config
+D:\GitHub\CodeChallenges\CodeChalenge1\bin\Debug\CodeChalenge1.exe.config
+D:\GitHub\CodeChallenges\CodeChalenge1\bin\Debug\CodeChalenge1.exe
+D:\GitHub\CodeChallenges\CodeChalenge1\bin\Debug\CodeChalenge1.pdb
+D:\GitHub\CodeChallenges\CodeChalenge1\obj\Debug\CodeChalenge1.exe
+D:\GitHub\CodeChallenges\CodeChalenge1\obj\Debug\CodeChalenge1.pdb
