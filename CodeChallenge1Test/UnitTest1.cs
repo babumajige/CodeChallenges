@@ -12,7 +12,7 @@ namespace CodeChallenge1Test
         {
             var enteredNumbrs = new int[4] { 1, 2, 3,4 };
             var result = CodeChallengeOne.CheckSum(enteredNumbrs);
-            Assert.IsTrue(result);
+            Assert.IsFalse(result);
         }
 
         [TestMethod]

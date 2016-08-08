@@ -10,7 +10,7 @@ namespace CodeChallenge1
     {
         public static void Main(string[] args)
         {
-            var inputValues = Console.ReadLine();
+            string inputValues = Console.ReadLine();
             if (inputValues != null)
             {
                 String[] elements = inputValues.Split(',');                 

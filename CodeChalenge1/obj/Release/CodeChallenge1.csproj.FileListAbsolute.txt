@@ -1,0 +1,5 @@
+E:\GitHub\CodeChallenges\CodeChalenge1\bin\Release\CodeChalenge1.dll.config
+E:\GitHub\CodeChallenges\CodeChalenge1\bin\Release\CodeChalenge1.dll
+E:\GitHub\CodeChallenges\CodeChalenge1\bin\Release\CodeChalenge1.pdb
+E:\GitHub\CodeChallenges\CodeChalenge1\obj\Release\CodeChalenge1.dll
+E:\GitHub\CodeChallenges\CodeChalenge1\obj\Release\CodeChalenge1.pdb

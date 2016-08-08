@@ -1,0 +1,9 @@
+E:\GitHub\CodeChallenges\CodeChallenge1Test\bin\Release\CodeChallenge1Test.dll.config
+E:\GitHub\CodeChallenges\CodeChallenge1Test\bin\Release\CodeChallenge1Test.dll
+E:\GitHub\CodeChallenges\CodeChallenge1Test\bin\Release\CodeChallenge1Test.pdb
+E:\GitHub\CodeChallenges\CodeChallenge1Test\bin\Release\CodeChalenge1.dll
+E:\GitHub\CodeChallenges\CodeChallenge1Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\GitHub\CodeChallenges\CodeChallenge1Test\bin\Release\CodeChalenge1.pdb
+E:\GitHub\CodeChallenges\CodeChallenge1Test\obj\Release\CodeChallenge1Test.csprojResolveAssemblyReference.cache
+E:\GitHub\CodeChallenges\CodeChallenge1Test\obj\Release\CodeChallenge1Test.dll
+E:\GitHub\CodeChallenges\CodeChallenge1Test\obj\Release\CodeChallenge1Test.pdb

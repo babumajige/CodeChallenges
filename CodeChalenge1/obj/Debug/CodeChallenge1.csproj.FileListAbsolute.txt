@@ -4,3 +4,9 @@ D:\GitHub\CodeChallenges\CodeChalenge1\bin\Debug\CodeChalenge1.exe
 D:\GitHub\CodeChallenges\CodeChalenge1\bin\Debug\CodeChalenge1.pdb
 D:\GitHub\CodeChallenges\CodeChalenge1\obj\Debug\CodeChalenge1.exe
 D:\GitHub\CodeChallenges\CodeChalenge1\obj\Debug\CodeChalenge1.pdb
+E:\GitHub\CodeChallenges\CodeChalenge1\obj\Debug\CodeChalenge1.pdb
+E:\GitHub\CodeChallenges\CodeChalenge1\bin\Debug\CodeChalenge1.pdb
+E:\GitHub\CodeChallenges\CodeChalenge1\obj\Debug\CodeChallenge1.csprojResolveAssemblyReference.cache
+E:\GitHub\CodeChallenges\CodeChalenge1\bin\Debug\CodeChalenge1.dll.config
+E:\GitHub\CodeChallenges\CodeChalenge1\bin\Debug\CodeChalenge1.dll
+E:\GitHub\CodeChallenges\CodeChalenge1\obj\Debug\CodeChalenge1.dll
